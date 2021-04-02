@@ -17,7 +17,7 @@ Install `git` with brew if you don't have it already installed
   
 then create a directory and download this repository with
 
-`git clone https://github.com/sd3rl0/macos-ratelimiter`
+`git clone https://github.com/jamnaga/macos-ratelimiter`
 
 *Done!*
  
